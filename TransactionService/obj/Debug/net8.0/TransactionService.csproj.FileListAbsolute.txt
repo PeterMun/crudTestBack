@@ -135,3 +135,4 @@
 /Users/pedromunozburgos/Desktop/PRUEBATECNICA/testBackend/TransactionService/obj/Debug/net8.0/TransactionService.pdb
 /Users/pedromunozburgos/Desktop/PRUEBATECNICA/testBackend/TransactionService/obj/Debug/net8.0/TransactionService.genruntimeconfig.cache
 /Users/pedromunozburgos/Desktop/PRUEBATECNICA/testBackend/TransactionService/obj/Debug/net8.0/ref/TransactionService.dll
+/Users/pedromunozburgos/Desktop/PRUEBATECNICA/testBackend/TransactionService/obj/Debug/net8.0/TransactionService.sourcelink.json
